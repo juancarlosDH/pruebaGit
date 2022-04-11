@@ -1,1 +1,2 @@
-console.log("Soy franco feierstein")
+let alumno = "Franco Feierstein"
+console.log(alumno)
